@@ -1,1 +1,1 @@
-export const NEWS_API_KEY = "9f85e2b245604085a617b134a1f2eae1";
+export const NEWS_API_KEY = "c48a0cb850a9e90f27efc7f1e159e047";
