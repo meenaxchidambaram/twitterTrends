@@ -1,1 +1,1 @@
-# twitterTrends
+# liveNews
